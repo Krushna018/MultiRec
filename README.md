@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MultiRec: Multi-Objective Recommender Framework
 
@@ -90,3 +91,6 @@ The repository supports the claims about the framework, dataset scale, 12
 configurations, methods, and metrics. Any sentence claiming a particular empirical
 improvement should be based on the actual CSV outputs produced after running the
 full study.
+=======
+# MultiRec-Multi-Objective-Recommender-Framework
+>>>>>>> 430f984ff87476c8a42eea20e2f1691e3feaf3ee
