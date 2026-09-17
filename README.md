@@ -1,22 +1,6 @@
-<<<<<<< HEAD
 
 # MultiRec: Multi-Objective Recommender Framework
 
-A reproducible research-oriented recommendation framework for studying competing
-user and system objectives rather than optimizing ranking accuracy alone.
-
-## Resume-aligned capabilities
-
-The repository directly implements the technical scope behind these resume bullets:
-
-- Multi-objective recommendation over **100,000+ interactions**:
-  the default study generates **120,000 deterministic user-item interactions**.
-- Collaborative filtering, matrix factorization, and hybrid recommendation models.
-- Weighted-fusion and Pareto-inspired re-ranking.
-- Exactly **12 model/ranking configurations** = 3 recommenders × 4 ranking policies.
-- Precision@10, Recall@10, NDCG@10, catalog coverage, novelty, and intra-list diversity.
-- User-level bootstrap confidence intervals.
-- Pareto-front analysis and configuration ranking.
 
 ## Architecture
 
@@ -84,13 +68,3 @@ analysis make trade-offs explicit and measurable.
 
 The optional MovieLens downloader exists only as a real-data extension; the project
 remains fully reproducible offline without it.
-
-## Important resume note
-
-The repository supports the claims about the framework, dataset scale, 12
-configurations, methods, and metrics. Any sentence claiming a particular empirical
-improvement should be based on the actual CSV outputs produced after running the
-full study.
-=======
-# MultiRec-Multi-Objective-Recommender-Framework
->>>>>>> 430f984ff87476c8a42eea20e2f1691e3feaf3ee
